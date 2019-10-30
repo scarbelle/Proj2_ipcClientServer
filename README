@@ -110,7 +110,3 @@ NOTE:  In the event of an unexpected interrupt of the server, where cleanup
        Server.
             ./myproj2 -x
             ./myproj2 -s
-       
-
-	    
-
