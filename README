@@ -1,9 +1,9 @@
-This directory contains a "C" code sample authored by Scarlett Davidson.
-The contents are artifacts relevant to a FINAL CLASS Project
-The purpose of this code sample is strictly to demonstrate I am
-capable to code in "C" in Linux.  Yes there is room for refactoring.
-Please trust my organizational style has improved since this code
-was created.  Thank you.
+This directory contains a "C" code sample to simply demonstrate
+my ability to code in "C" in Linux.
+
+The contents are artifacts relevant to a FINAL CLASS Project.
+Yes there is room for refactoring.  Please trust my organizational
+style has improved since this code was created.  Thank you.
 
 Author:            Scarlett J. Davidson
 Graduate Course:   CSE 691 Adv Systems Programming
@@ -59,7 +59,7 @@ the output to the multiple client windows.
 
 2) In one terminal, extract artifacts from the tar file, change to the
    project directory and build the program (myproj2)
-           tar -xvf Proj2_ipcClientServer.tar
+           tar -xzvf Proj2_ipcClientServer.tar.gz
            cd Proj2_ipcClientServer
            make
 
@@ -84,11 +84,11 @@ the output to the multiple client windows.
    count of the string "AAA" display in client A window.
        	    ./myecho AAA
 
-8) In client B window, repeat same instructions as step 6.  You will see a 
+8) In client B window, repeat same instructions as step 7.  You will see a 
    count of the string "BBB" display in client B window.
       	    ./myecho BBB
 
-9) In client B window, repeat same instructions as step 6. You will see a 
+9) In client B window, repeat same instructions as step 7. You will see a 
    count of the string "CCC" display in client C window.
       	    ./myecho CCC
 
